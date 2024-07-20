@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"
+        android:title="Search"
+        />
+    <item
+        android:id="@+id/trend"
+        android:title="Hot Trend"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/sale"
+        android:title="Sale"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/maindish"
+        android:title="Main Dish"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/sidedish"
+        android:title="Side Dish"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/water"
+        android:title="Water"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/desserts"
+        android:title="Desserts"
+        app:showAsAction="always"/>
+</menu>

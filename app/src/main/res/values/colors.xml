@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define the color red -->
+    <color name="colorPrimaryDark">#B71C1C</color> <!-- Dark red -->
+    <color name="colorAccent">#D32F2F</color> <!-- Red -->
+    <!-- Other color definitions -->
+    <color name="colorText">#121212</color>
+    <color name="colorSelected">#F9F3E2</color>
+    <color name="colorBackground">#F2F2F2</color>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorSecondary">#000000</color>
+    <color name="colorNegative">#EF6263</color>
+    <color name="colorPositive">#69CE8C</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="primary_color">#FFEB3B</color>
+    <color name="gray">#909090</color>
+</resources>
